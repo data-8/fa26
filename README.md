@@ -1,6 +1,6 @@
-# Data 8 Spring 2026 Website!
+# Data 8 Fall 2026 Website!
 
-[![Deploy Jekyll site to Pages](https://github.com/data-8/sp26/actions/workflows/jekyll.yml/badge.svg)](https://github.com/data-8/sp26/actions/workflows/jekyll.yml) [![Run all page tests](https://github.com/data-8/sp26/actions/workflows/rspec.yml/badge.svg)](https://github.com/data-8/sp26/actions/workflows/rspec.yml)
+[![Deploy Jekyll site to Pages](https://github.com/data-8/fa26/actions/workflows/jekyll.yml/badge.svg)](https://github.com/data-8/fa26/actions/workflows/jekyll.yml) [![Run all page tests](https://github.com/data-8/fa26/actions/workflows/rspec.yml/badge.svg)](https://github.com/data-8/fa26/actions/workflows/rspec.yml)
 
 
 ## Installation
