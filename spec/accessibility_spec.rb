@@ -24,6 +24,13 @@ excluded_elements = [
   '[data-a11y-errors="true"]'
 ]
 
+# Add pages here that do not need to have a11y tests run.
+# Full paths as output by the tests should be used.
+# It should be rare to add to this array. One acceptable
+# use is to add redirect pages because they can introduce
+# race conditions and make the a11y tests fail inconsistently.
+SKIPPED_PAGES = ['/fa26/textbook/', '/fa26/materials/'].freeze
+
 # We must call this to ensure the build it up-to-date.
 build_jekyll_site!
 ALL_PAGES = load_sitemap
