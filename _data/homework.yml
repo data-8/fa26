@@ -1,0 +1,44 @@
+### HOMEWORK ORDERING ###
+# each entry requires either a 'slug' or a 'title' field
+
+# use the slug if you utilize the _hw collection. this will take info
+# from the front matter of the corresponding file in _hw/
+# if your filename has a leading zero, quotes are required around the slug.
+# if you use the _hw collection, the title field will be useful for
+# one-off overrides like holidays or for placeholders; use the title field sparingly
+
+# nonumber supresses the label and numbering for the homework entry
+# skip: true will omit the homework from the schedule entirely
+
+# link overrides the default link to the homework page from the collection if 
+# you provided a slug or provides an external link
+homework:
+  - title: Homework 1 (due 9/2)
+    link: 
+  - title: Homework 2 (due 9/9)
+    link: 
+  - title: Homework 3 (due 9/16)
+    link: 
+  - title: Homework 4 (due 9/30)
+    link: 
+  - skip: true
+  - title: Homework 5 (due 10/7)
+    link: 
+  - title: Homework 6 (due 10/14)
+    link: 
+  - title: Homework 7 (due 10/21)
+    link: 
+  - title: Homework 8 (due 10/30)
+    link: 
+  - skip: true
+  - skip: true
+  - title: Homework 9 (due 11/18)
+    link: 
+  - title: Homework 10 (Due 11/25)
+    link: 
+  - title: <b>Academic Holiday</b>
+    nonumber: true
+  - skip: true
+  - title: <b>RRR Week</b>
+    nonumber: true
+# HW 11, 12 on _data/syllabus.yml b/c not released on Thursday

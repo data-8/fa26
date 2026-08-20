@@ -1,0 +1,18 @@
+### PROJECTS ORDERING ###
+# title and date are required for each entry
+# link is optional
+# label number is optional. You can make this 
+# 1, 2, 3, etc. or A, B, C, etc. or whatever you want
+projects:
+  - title: Project 1 (Checkpoint due 10/2, Entire project due 10/9)
+    date: 2026-09-25
+    link: 
+    label-number: 1
+  - title: Project 2 (Checkpoint due 11/13, Entire project due 11/20)
+    date: 2026-11-06
+    link: 
+    label-number: 2
+  - title: Project 3 (Checkpoint due 11/30, Entire project due 12/4)
+    date: 2026-11-20
+    link: 
+    label-number: 3

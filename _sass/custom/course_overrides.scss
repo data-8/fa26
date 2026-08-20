@@ -1,0 +1,349 @@
+// Put your custom CSS here!
+// You an reference all variables in the Berkeley files
+@import 'card';
+@import 'announcement';
+@import 'staffer';
+@import 'resources';
+
+// CUSTOM
+
+@media (min-width: 66.5rem) {
+  .side-bar {
+    width: 248px !important;
+  }
+
+  .main {
+    margin-left: 264px !important;
+  }
+
+  .staffer div {
+    width: 200px !important;
+  }
+
+  .acknowledger div {
+    width: 200px !important;
+  }
+
+}
+
+@media (min-width: 50rem) {
+  .main {
+    max-width: 100% !important;
+  }
+
+  .site-header {
+    max-height: 150px !important;
+    height: 100% !important;
+  }
+
+  .staffer div {
+    max-width: 200px !important;
+  }
+
+  .acknowledger div {
+    max-width: 200px !important;
+  }
+
+  .search-input {
+    font-size: 0.9em !important;
+  }
+
+}
+
+@media (max-width: 50rem) {
+  .site-logo {
+    margin-left: 60px !important;
+    height: 60px !important;
+  }
+}
+
+.aux-nav {
+  font-size: 0.9em !important;
+}
+
+.site-logo {
+  /*background-position: center !important;*/
+  background-position: bottom !important;
+  /*for Thanksgiving */
+  width: 100%;
+  height: 120%;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.main-content-wrap {
+  max-width: 1100px !important;
+  margin-left: 20px !important;
+  margin-right: 20px !important
+}
+
+.staffer {
+  max-width: 500px !important;
+  font-size: 0.8em !important;
+}
+
+.acknowledger {
+  max-width: 500px !important;
+  font-size: 0.8em !important;
+}
+
+.acknowledger-name a {
+  color: #27262b !important;
+
+}
+
+.btn-blue {
+  color: white !important;
+}
+
+.btn-yellow {
+  background-color: #ebc326 !important;
+  color: #333333 !important;
+}
+
+.btn-green {
+  color: white !important;
+}
+.pronouns {
+  font-weight: bold !important;
+  display: inline-block;
+  padding-top: 0.16em;
+  padding-bottom: 0.16em;
+  padding-left: 0.56em;
+  padding-right: 0.56em;
+
+  font-size: 0.8em;
+
+  text-transform: uppercase;
+  vertical-align: middle;
+  border-radius: 12px;
+
+  background-color: #ecebed;
+}
+
+.term {
+  font-weight: bold !important;
+  display: inline-block;
+  padding-top: 0.16em;
+  padding-bottom: 0.16em;
+  padding-left: 0.56em;
+  padding-right: 0.56em;
+
+  font-size: 0.8em;
+
+  text-transform: uppercase;
+  vertical-align: middle;
+  border-radius: 12px;
+
+  background-color: #ecebed;
+}
+
+.staffer img {
+  max-width: 85px !important;
+  max-height: 85px !important;
+}
+
+.acknowledger img {
+  max-width: 85px !important;
+  max-height: 85px !important;
+}
+
+.team {
+  font-weight: bold !important;
+  display: inline-block;
+  padding-top: 0.16em;
+  padding-bottom: 0.16em;
+  padding-left: 0.56em;
+  padding-right: 0.56em;
+
+  font-size: 0.8em;
+
+  text-transform: uppercase;
+  vertical-align: middle;
+  border-radius: 6px;
+
+}
+
+.label-Pronouns {
+  @extend .text-grey-dk-100, .bg-grey-lt-200;
+}
+
+// Team color styles - these must override the default .staffer-badge grey background
+.staffer-badge.label-Scholars,
+.label-Scholars {
+  background-color: #935CBC !important;
+  color: white !important;
+}
+
+.staffer-badge.label-Course,
+.label-Course {
+  background-color: #B543CB !important;
+  color: white !important;
+}
+
+.staffer-badge.label-Course-Director,
+.label-Course-Director {
+  background-color: #B543CB !important;
+  color: white !important;
+}
+
+.staffer-badge.label-Content,
+.label-Content {
+  background-color: #006C67 !important;
+  color: white !important;
+}
+
+.staffer-badge.label-TAContent,
+.label-TAContent {
+  background-color: #487d7a !important;
+  color: white !important;
+}
+
+.staffer-badge.label-Grading,
+.label-Grading {
+  background-color: #DF2F0C !important;
+  color: white !important;
+}
+
+.staffer-badge.label-TAGrading,
+.label-TAGrading {
+  background-color: rgb(168, 82, 67) !important;
+  color: white !important;
+}
+
+.staffer-badge.label-Logistics,
+.label-Logistics {
+  background-color: #3D348B !important;
+  color: white !important;
+}
+
+.staffer-badge.label-TALogistics,
+.label-TALogistics {
+  background-color: #615d89 !important;
+  color: white !important;
+}
+
+.staffer-badge.label-Pedagogy,
+.label-Pedagogy {
+  background-color: #9C3848 !important;
+  color: white !important;
+}
+
+.staffer-badge.label-TAPedagogy,
+.label-TAPedagogy {
+  background-color: #a0666f !important;
+  color: white !important;
+}
+
+.staffer-badge.label-Tutors,
+.label-Tutors {
+  background-color: #A76406 !important;
+  color: white !important;
+}
+
+.staffer-badge.label-TATutors,
+.label-TATutors {
+  background-color: #a15e01 !important;
+  color: white !important;
+}
+
+.staffer-badge.label-Student,
+.label-Student {
+  background-color: #2D8095 !important;
+  color: white !important;
+}
+
+.staffer-badge.label-Student-Support,
+.label-Student-Support {
+  background-color: #2D8095 !important;
+  color: white !important;
+}
+
+.staffer-badge.label-TAStudent,
+.label-TAStudent {
+  background-color: #365a63 !important;
+  color: white !important;
+}
+
+.staffer-badge.label-Software,
+.label-Software {
+  background-color: #0F766E !important;
+  color: white !important;
+}
+
+.staffer-badge.label-Professor,
+.label-Professor {
+  background-color: #624099 !important;
+  color: white !important;
+}
+
+.staffer-badge.label-Instructor,
+.label-Instructor {
+  background-color: #5e1c82 !important;
+  color: white !important;
+}
+
+.btn-datahub {
+  @include btn-color($white, #FF8C00);
+}
+
+.btn-ed {
+  @include btn-color($white, #9400D3);
+}
+
+.btn-zoom {
+  @include btn-color($white, #355F41);
+}
+
+.btn-bcourses {
+  @include btn-color($white, #8C183B);
+}
+
+.btn-pensieve {
+  @include btn-color($white, #db6b1c);
+}
+
+.btn-textbook {
+  @include btn-color($white, #1B1D1D);
+}
+
+.btn-extensions {
+  @include btn-color($white, #523be7);
+}
+
+.btn-currweek {
+  @include btn-color($white, #355F41);
+}
+
+.btn-officehours {
+  @include btn-color($white, #1863c1);
+}
+
+.py-ref-table {
+  table-layout: fixed;
+  overflow-x: auto;
+  display: block;
+
+  th:nth-child(1),
+  td:nth-child(1) {
+    width: 30%;
+  }
+
+  th:nth-child(2),
+  td:nth-child(2) {
+    width: 30%;
+  }
+
+  th:nth-child(3),
+  td:nth-child(3) {
+    width: 20%;
+  }
+
+  th:nth-child(4),
+  td:nth-child(4) {
+    width: 20%;
+  }
+}

@@ -1,0 +1,39 @@
+### LAB ORDERING ###
+# each entry requires either a 'slug' or a 'title' field
+
+# use the slug if you utilize the _labs collection. this will take info
+# from the front matter of the corresponding file in _labs/
+# if your filename has a leading zero, quotes are required around the slug.
+# if you use the _labs collection, the title field will be useful for
+# one-off overrides like holidays or for placeholders; use the title field sparingly
+
+# nonumber supresses the label and numbering for the lab entry
+# skip: true will omit the lab from the schedule entirely
+
+# link overrides the default link to the lab page from the collection if 
+# you provided a slug or provides an external link
+labs:
+# Lab 1 in _data/syllabus.yml b/c not on Monday
+  - title: Lab 2 (due 9/4)
+    link: 
+  - title: Lab 3 (due 9/11)
+    link: 
+  - title: Lab 4 (due 9/18)
+    link: 
+  - skip: true
+  - skip: true
+  - title: Lab 5 (due 10/9)
+    link: 
+  - title: Lab 6 (due 19/16)
+    link: 
+  - title: Lab 7 (due 10/23)
+    link:
+  - title: Lab 8 (due 10/30)
+    link: 
+  - skip: true
+  - skip: true
+  - title: Lab 9 (due 11/20)
+    link: 
+  - skip: true
+  - title: Lab 10 (due 12/4)
+    link:
