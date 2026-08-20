@@ -35,39 +35,25 @@ SKIPPED_PAGES = ['/fa26/textbook/', '/fa26/materials/'].freeze
 build_jekyll_site!
 ALL_PAGES = load_sitemap
 
+PAGES_TO_TEST = ALL_PAGES - SKIPPED_PAGES
+
 RSpec.shared_examples 'a11y tests' do
   it 'meets WCAG 2.1' do
     expect(page).to be_axe_clean
-      .according_to(*required_a11y_standards)
-      .skipping(*skipped_rules)
-      .excluding(*excluded_elements)
+      .according_to(*REQUIRED_A11Y_STANDARDS)
+      .skipping(*SKIPPED_RULES)
+      .excluding(*EXCLUDED_ELEMENTS)
   end
 
   it 'meets WCAG 2.2' do
     expect(page).to be_axe_clean
-      .according_to(*complete_a11y_standards)
-      .skipping(*skipped_rules)
-      .excluding(*excluded_elements)
+      .according_to(*COMPLETE_A11Y_STANDARDS)
+      .skipping(*SKIPPED_RULES)
+      .excluding(*EXCLUDED_ELEMENTS)
   end
 end
 
-ALL_PAGES.each do |path|
-  if path.match(%r{/sp26/textbook/})
-    describe 'Jupyter Notebook Exports' do
-      skip "skipping likely notebook file @ #{path}"
-    end
-
-    next
-  end
-
-  if path.match(%r{/sp26/materials/})
-    describe 'Jupyter Notebook Exports' do
-      skip "skipping likely notebook file @ #{path}"
-    end
-
-    next
-  end
-
+PAGES_TO_TEST.each do |path|
   describe "#{path} is accessible", :js, type: :feature do
     context 'when light mode' do
       before do
