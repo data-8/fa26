@@ -47,7 +47,7 @@ class_archive_path: /
 # favicons can be course specific or you can use the default Berkeley one that comes with the template.
 # favicon_ico: "/favicon.png"
 
-current_week: 17
+current_week: 0
 
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:
