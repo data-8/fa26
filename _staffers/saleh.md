@@ -7,3 +7,5 @@ photo: saleh.jpg
 pronouns: he/him
 team: 
 ---
+
+Hi! I’m a junior studying Applied Math & ECE. I like finding new spots, meeting new people, drinking chai, and teaching!

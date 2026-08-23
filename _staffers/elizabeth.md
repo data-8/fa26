@@ -1,9 +1,11 @@
 ---
 name: Elizabeth Gonzalez
-role: Teaching Assistant
+role: Head Teaching Assistant
 email: elizabeth.d.gonzo@berkeley.edu
 website: 
-photo: elizabeth.png
-pronouns: 
-team: 
+photo: elizabeth.jpg
+pronouns: she/her
+team: Tutor
 ---
+
+Hello everyone, I'm Elizabeth, a Junior studying Psych & Stats with a minor in Data Science. I like pickleball, video games, horror movies, cooking/baking, and I can't wait to work with you all!

@@ -1,9 +1,11 @@
 ---
 name: Sarah Zuo
-role: Teaching Assistant
+role: Head Teaching Assistant
 email: sarahzuo@berkeley.edu
-website: https://drive.google.com/drive/folders/1iOzRAox_Mk3SmHotsyOOw2uNyZW5b-8p?usp=drive_link
-photo: sarah.jpg
+website:
+photo: sarah2.jpg
 pronouns: she/her
-team: 
+team: Content
 ---
+
+hello! i’m a junior studying data science + economics, and i love long walks during sunset. so happy to have you in data 8!
