@@ -84,9 +84,9 @@ Once the semester gets going, small-group tutoring sessions will be available fo
 
 ### Live Lecture
 
-Live lectures will be held on Mondays, Wednesdays, and Fridays starting at 11:10am in Wheeler 150. Recordings of these sessions will be provided, but students are highly encouraged to attend in real-time. Slides and lecture examples will be provided on the course website.
+Live lectures will be held on Mondays, Wednesdays, and Fridays starting at 10:10am in Wheeler 150. Recordings of these sessions will be provided, but students are highly encouraged to attend in real-time. Slides and lecture examples will be provided on the course website.
 
-If you are enrolled in the in-person lecture, you may come in person or join on [Zoom](https://berkeley.zoom.us/j/93726258803). If you are enrolled in the online lecture, please join via Zoom at the start of the semester. If space opens up in the in-person lecture later in the semester, all students will be invited to attend.
+If you are enrolled in the in-person lecture, you may come in person or join on [Zoom](https://berkeley.zoom.us/j/98611058950). If you are enrolled in the online lecture, please join via Zoom at the start of the semester. If space opens up in the in-person lecture later in the semester, all students will be invited to attend.
 
 ### Labs
 
