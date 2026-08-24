@@ -25,7 +25,7 @@ nav_order: 3
 
 #### Data Science Student Climate
 
-[Data Science Undergraduate Studies](https://cdss.berkeley.edu/dsus) faculty and staff are committed to creating a community where every person feels [respected, included, and supported](https://cdss.berkeley.edu/equity-inclusion). We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at cpteller@berkeley.edu or report an incident anonymously through this [online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform). And please help create a welcoming environment for your fellow students. Thanks!
+[Data Science Undergraduate Studies](https://cdss.berkeley.edu/dsus) faculty and staff are committed to creating a community where every person feels [respected, included, and supported](https://cdss.berkeley.edu/equity-inclusion). We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at [cpteller@berkeley.edu](mailto:cpteller@berkeley.edu) or report an incident anonymously through this [online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform). And please help create a welcoming environment for your fellow students. Thanks!
 
 #### Device Lending options
 
@@ -33,7 +33,7 @@ Students can apply to borrow a computer through the [Student Technology Equity P
 
 #### Learning is cooperative
 
-We encourage you to discuss course content with your friends and classmates while working on your assignments. No matter your academic background, you will learn more if you work alongside others than if you work alone. Ask questions, answer questions, and share ideas liberally. If an emergency takes you away from the course for an extended period, or if you decide to drop the course for any reason, let us know right away. This includes informing data8@berkeley.edu, your lab TA and your project partner.
+We encourage you to discuss course content with your friends and classmates while working on your assignments. No matter your academic background, you will learn more if you work alongside others than if you work alone. Ask questions, answer questions, and share ideas liberally. If an emergency takes you away from the course for an extended period, or if you decide to drop the course for any reason, let us know right away. This includes informing [data8@berkeley.edu](mailto:data8@berkeley.edu), your lab TA and your project partner.
 
 #### Some words of encouragement and perspective
 
@@ -58,8 +58,7 @@ The curriculum and format are designed specifically for students who have not pr
 
 Our primary text is an online book called [Computational and Inferential Thinking: The Foundations of Data Science](http://inferentialthinking.com/). This text was written for the course by some of its instructors. 
 
-The computing platform for the course is hosted at data8.datahub.berkeley.edu. Students find it convenient to use their own computer for the course. If you do not have adequate access to a personal computer, you can reach out to the [Student Technology Equity Program](https://studenttech.berkeley.edu/devicelending).  
-
+The computing platform for the course is hosted at [data8.datahub.berkeley.edu](https://data8.datahub.berkeley.edu/). Students find it convenient to use their own computer for the course. If you do not have adequate access to a personal computer, you can reach out to the [Student Technology Equity Program](https://studenttech.berkeley.edu/devicelending).  
 
 ### Support in learning the content
 
@@ -79,14 +78,13 @@ Ed is a formal, academic space. Posts in this forum must relate to the course an
 
 Once the semester gets going, small-group tutoring sessions will be available for students wanting additional support. These sessions are meant primarily to develop confidence with concepts that have been taught in previous weeks. In these sessions, a tutor will guide students in groups of around five through a worksheet that covers past concepts. Details about sign-ups will be posted to Ed in the first few weeks of the semester.
 
-
 ## Course Components
 
 ### Live Lecture
 
-Live lectures will be held on Mondays, Wednesdays, and Fridays starting at 11:10am in Wheeler 150. Recordings of these sessions will be provided, but students are highly encouraged to attend in real-time. Slides and lecture examples will be provided on the course website.
+Live lectures will be held on Mondays, Wednesdays, and Fridays starting at 10:10am in Wheeler 150. Recordings of these sessions will be provided, but students are highly encouraged to attend in real-time. Slides and lecture examples will be provided on the course website.
 
-If you are enrolled in the in-person lecture, you may come in person or join on [Zoom](https://berkeley.zoom.us/j/93726258803). If you are enrolled in the online lecture, please join via Zoom at the start of the semester. If space opens up in the in-person lecture later in the semester, all students will be invited to attend.
+If you are enrolled in the in-person lecture, you may come in person or join on [Zoom](https://berkeley.zoom.us/j/98611058950). If you are enrolled in the online lecture, please join via Zoom at the start of the semester. We anticipate space will open up in the in-person lecture at the beginning of Week 3; if so, all students will be invited to attend in-person.
 
 ### Labs
 
@@ -94,104 +92,116 @@ Weekly labs include a discussion worksheet covering recent material and a progra
 
 This semester, we offer two lab formats for you to choose from: regular lab, and self-service lab. Both are designed to help students learn the course material equally well. 
 
-_Choosing a Lab Format_
+#### Choosing a Lab Format
+{: .no_toc }
 
 First-year students and students without prior programming experience are strongly encouraged to choose the regular lab. Working on programming-based lab assignments in a small classroom with dedicated course staff available to help is a great way to learn, especially if this is your first exposure to coding! The regular lab format also has advantages for students who wish to practice materials in a discussion-based format, wish to work with others and wish to have a dedicated lab uGSI and tutors for immediate support during lab time.
 
 The self-service lab is designed to appeal to students who learn well from large-format lectures, work independently at their own pace, and come to drop-in office hours when they need help. It also appeals to those with a background in computer programming. 
 
-
-_Regular Lab_
+#### Regular Lab
+{: .no_toc }
 
 - The first hour focuses on a discussion worksheet and group problem-solving. We encourage no use of technology during this portion of the lab (all materials required will be available at the lab section). 
 - The second hour is dedicated to completing a programming-based assignment. 
 - 80% of lab credit will be attendance-based. 
-- The remaining 20% of credit will be awarded for submitting the programming-based assignment to Pensieve with all test cases passing. Discussion worksheets do not need to be submitted. 
+- The remaining 20% of credit will be awarded for submitting the programming-based assignment to Pensive with all test cases passing. Discussion worksheets do not need to be submitted. 
 - Active participation in the discussion and lab is required to earn attendance credit. 
 - Lab sessions will not be webcast or recorded.
 
 
+#### Self-Service Lab
+{: .no_toc }
 
-
-_Self-Service Lab_
-
-Students in the self-service lab are not assigned an in-person discussion section. They must submit the weekly programming-based assignment to Pensieve by Friday, 5 pm PT. If you need in-person support, you are more than welcome to visit office hours! Lab assignments include automatic feedback, so completing the lab assignment in full guarantees you a perfect score. Please note that there will be no attendance credit for self service labs. Your lab score will be solely based on your test cases (i.e. if you pass 80% of test cases you will receive a score of 80% on that lab).
+Students in the self-service lab are not assigned an in-person discussion section. They must submit the weekly programming-based assignment to Pensive by Friday, 5 pm PT. If you need in-person support, you are more than welcome to visit office hours! Lab assignments include automatic feedback, so completing the lab assignment in full guarantees you a perfect score. Please note that there will be no attendance credit for self service labs. Your lab score will be solely based on your test cases (i.e. if you pass 80% of test cases you will receive a score of 80% on that lab).
 
 Each student will be automatically awarded two lab drops that will be applied at the end of the semester. Please note that these lab drops are meant to be used only in the event of illness, emergency, or other extenuating circumstances; the expectation is that students will complete all assignments to the best of their abilities. 
 
+<details>
+  <summary>How do I switch my lab format?</summary>
+  <p style="margin-left:16px;">Students may switch formats at two points throughout the semester (1) during the first week of lab sections (between the start of Lab 1 and the start of Lab 2) and (2) after the first midterm scores have been released. Please note that students looking to switch from self service to regular lab following the midterm will only be able to do so if capacity in lab sections are available. Additionally, if at any point a student has chosen the self service format, their lab grade will be solely based on the completion of the lab notebook, regardless of if they are attending a regular lab (e.g. if a student switches into a regular lab section from self service post-midterm, their credit will still be awarded based on the percentage of test cases passed).</p>
+</details>
 
-_Want to Switch your Lab Format?_
+<details>
+  <summary>How do I submit the programming-based lab assignment?</summary>
+  <p style="margin-left:16px;">See <a href="#submitting-assignments">Submitting Assignments</a> below.</p>
+</details>
 
-Students may switch formats at two points throughout the semester (1) during the first week of lab sections (between the start of Lab 1 and the start of Lab 2) and (2) after the midterm scores have been released. Please note that students looking to switch from self service to regular lab following the midterm will only be able to do so if capacity in lab sections are available. Additionally, if at any point a student has chosen the self service format, their lab grade will be solely based on the completion of the lab notebook, regardless of if they are attending a regular lab (e.g. if a student switches into a regular lab section from self service post-midterm, their credit will still be awarded based on the percentage of test cases passed). 
-
-_How Should You Submit The Programming-Based Assignment?_
-
-[Here](https://drive.google.com/file/d/1H9UwEb7uQrc1eK0PKGxtu95woP4IcyGI/view?usp=sharing) is a video for how to submit the programming assignment to Pensieve. Before posting about code errors, please check our [debugging page](https://www.data8.org/sp26/debugging/)! We have listed common errors and reasons why they might be coming up for you.
-
-
-_Asking for Help_
-
-You can ask us about lab assignments in office hours or on Ed in the dedicated lab thread for a given week! Remember to never post your code publicly; please make a private post if you have to post any code.
+<details>
+  <summary>How do I get lab help?</summary>
+  <p style="margin-left:16px;">You can ask us in lab sections, in office hours or on Ed in the dedicated lab thread for a given week! Remember to never post your code publicly; please make a private post if you have to post any code.</p>
+</details>
 
 ### Homework
 
 Weekly homework assignments are a required part of the course. You must complete and submit your homework independently, but you can discuss problems with other students and course staff. 
 
-Homework will be released on Thursday at 11am PT and due the following Wednesday at 11am PT. There are **5 extra points** available for submitting on Tuesday at 11am PT (the day before the regular deadline)! Students will be awarded two homework drops for the entire semester, only meant to be used for extenuating circumstances. 
-You can ask questions on Ed in the dedicated homework thread. (Make sure to navigate to the subquestion thread.)
-You can also get help at office hours. We highly recommend getting started on the homework shortly after it is released, so that if you need help, you can attend OH before the deadline on Wednesday.
+Homework will be released on Thursday at 10am PT and due the following Wednesday at 10am PT. There are **5 extra points** available for submitting on Tuesday at 10am PT (the day before the regular deadline)! Students will be awarded two homework drops for the entire semester, only meant to be used for extenuating circumstances.
 
-_How to Submit Your Homework Assignment_
 
-[Here](https://drive.google.com/file/d/1geOaRRmQonac1A5WVjzlcEl1NS2nAt37/view?usp=sharing) is a link to a video on the assignment submission process (make sure you’re logged into your Berkeley e-mail). 
-As a reminder, it is your responsibility to make sure the autograder tests results in the notebook match the autograder results on Pensieve after you submit. Check out our [DataHub Guide](https://www.data8.org/sp26/faq/#datahub) if you run into any issues working on Jupyter Notebook before posting on Ed.
+<details>
+  <summary>How do I submit my homework assignment?</summary>
+
+  <p style="margin-left:16px;">See <a href="#submitting-assignments">Submitting Assignments</a> below.</p>
+</details>
+
+<details>
+  <summary>How do I get homework help?</summary>
+  <p style="margin-left:16px;">You can ask questions on Ed in the dedicated homework thread. (Make sure to navigate to the subquestion thread.) You can also get help at office hours.</p>
+</details>
+
+We highly recommend getting started on the homework shortly after it is released, so that if you need help, you can attend OH before the deadline on Wednesday.
 
 ### Projects
 
 Data science is about analyzing real-world data sets, and so you will also complete three projects involving real data. The experience of solving the problems in this project will prepare you for exams and future real-world projects. On each project, you may work with a single partner; your partner must be from the lab you enrolled in. **Both partners will receive the same score and are equally responsible for the work submitted.** You may also work on your own. 
 
-There are three projects throughout the semester. For each project, you will submit in two parts: first, a checkpoint, and then, the completed project. Don't share your code with anybody but your partner. Similar to homeworks, there are **5 extra points** available for submitting 24 hours in advance of the deadline. You are welcome to discuss questions with other students but don't share the answers. If someone (who is not your partner) asks you for the answer, you might demonstrate how you would solve a similar problem.
+There are three projects throughout the semester. For each project, you will submit in two parts: first, a checkpoint, and then, the completed project. Don't share your code with anybody but your partner. Similar to homework, there are **5 extra points** available for submitting 24 hours in advance of the deadline. You are welcome to discuss questions with other students but don't share the answers. If someone (who is not your partner) asks you for the answer, you might demonstrate how you would solve a similar problem.
 
 The projects can seem long and difficult, but you are encouraged to get help! Come to office hours, post on Ed, and talk to your classmates. If you want to ask about the details of your solution to a problem, make a private Ed post and the staff will respond. If you're ever feeling overwhelmed or don't know how to make progress, email your TA or tutor for help. You can find contact information for the staff on the course website. 
 
 We _highly recommend_ starting early, so on the day that the project is released, and doing each bit that you can with the material that you have been exposed to in lecture/lab up until that point. Continue in this fashion, working day-by-day, and you're more likely to have a stress-free experience!
 
-_Submitting your Project with a Partner_
+<details>
+  <summary>How do I submit my project with a partner?</summary>
 
-Here's a [walkthrough video](https://drive.google.com/file/d/1H9UwEb7uQrc1eK0PKGxtu95woP4IcyGI/view?usp=sharing) on how to add partners on Pensieve! Make sure only one of you submits the project.
-
+  <p style="margin-left:16px;">Here's a <a href="https://drive.google.com/file/d/1H9UwEb7uQrc1eK0PKGxtu95woP4IcyGI/view?usp=sharing">walkthrough video</a> on how to add partners on Pensive! Make sure only one of you submits the project.</p>
+</details>
 
 ### Exams
 
-The midterm exam will be held in-person on Tuesday, March 10, from 8-10pm PT.
+Midterm 1 exam will be held in-person on Wednesday, September 23, 8-10pm PT. Midterm 2 exam will be held in-person on Wednesday, November 4, 8-10pm.
 
-The final exam is required for a passing grade, and will be held in-person on Tuesday, May 12, from 7-10pm PT.
+The final exam is required for a passing grade, and will be held in-person on Tuesday, December 15, 11:30am-2:30pm PT.
 
-There will be one alternate exam for the midterm, which is only for those with course conflicts. 
+There will be one alternate exam for each midterm (dates and times TBD). The alternate final exam is Tuesday, December 15, 3-6pm. Alternate exams are only for students who have a course conflict with the regular final exam time or who cannot attend the regular final exam due to a DSP accommodation.
 
 ## Grades
 
-Grades will be assigned using the following weighted components. Every assignment is weighted equally in its category. For example, there are 3 projects, so each project is worth (20 / 3)% = 6.6% of your grade.
+Grades will be assigned using the following weighted components. Every assignment is weighted equally in its category. For example, there are 3 projects, so each project is worth (10 / 3)% = 3.3% of your grade.
 
 | Activity | Grade |
 | --- | --- |
 | Lab Credit | 20% |
-| Homeworks | 10% |
-| Projects | 20% |
-| Midterm | 20% |
+| Homework | 10% |
+| Projects | 10% |
+| Midterm 1 | 15% |
+| Midterm 1 | 15% |
 | Final | 30% |
 
-Grades for Homeworks, Projects, and Labs will be posted on Pensieve about 1 week after the assignment's due date. Solutions to the assignment and common mistakes will also be posted on Ed. It is up to you to check the solutions and request a regrade request before the regrade deadline (typically 5 days after grade release). Regrade requests can be made on Pensieve. Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so please do not delay reviewing your work.
+Grades for Homework, Projects, and Labs will be posted on Pensive about 1 week after the assignment's due date. Solutions to the assignment and common mistakes will also be posted on Ed. It is up to you to check the solutions and request a regrade request before the regrade deadline (typically 5 days after grade release). Regrade requests can be made on Pensive. Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so please do not delay reviewing your work.
 
 ### Submitting Assignments
 
-All assignments (homework, labs, and projects) will be submitted on Pensieve. Here's a [tutorial](https://drive.google.com/file/d/1geOaRRmQonac1A5WVjzlcEl1NS2nAt37/view?usp=sharing) for submitting assignments.
+All assignments (homework, labs, and projects) will be submitted on Pensive. Here's a [tutorial](https://drive.google.com/file/d/1geOaRRmQonac1A5WVjzlcEl1NS2nAt37/view?usp=sharing) for submitting assignments (make sure you’re logged into your Berkeley e-mail).
 
-We understand that the submission process is new for many students taking the course. To account for this, we will do our best to accommodate submission-related issues (submitting to the wrong assignment, not saving files correctly, autograder timing out) up until the third week of the course. After the third week, it is **your responsibility** to confirm you have submitted your work correctly. We reserve the right to impose penalties for having to resubmit students’ work beyond this point.
+*It is your responsibility to make sure the autograder tests results in the notebook match the autograder results on Pensive after you submit.* We understand that the submission process is new for many students taking the course. To account for this, we will do our best to accommodate submission-related issues (submitting to the wrong assignment, not saving files correctly, autograder timing out) up until the third week of the course. After the third week, it is **your responsibility** to confirm you have submitted your work correctly. We reserve the right to impose penalties for having to resubmit students’ work beyond this point.
+
+Before posting about code errors, please check our [FAQs & Debugging page]({{ site.url }}{{ site.baseurl }}/faq/)! We have listed common errors and reasons why they might be coming up for you. If you run into any issues working on Jupyter Notebook, check out our [DataHub Guide]({{ site.url }}{{ site.baseurl }}/faq/#datahub).
 
 ### Late Submission
 
-The deadline for homeworks in this course is **11 AM PT**. The deadline for labs and projects is **5 PM PT**.  **Submissions after the deadline**  will be **accepted for 24 hours and will incur a 20% penalty**. Any submissions later than 24 hours after the deadline will not be accepted.
+The deadline for homework in this course is **10 AM PT**. The deadline for labs and projects is **5 PM PT**.  **Submissions after the deadline**  will be **accepted for 24 hours and will incur a 20% penalty**. Any submissions later than 24 hours after the deadline will not be accepted.
 
 If you need an extension, instructions on how to request an assignment extension are in the following section.
 
@@ -199,7 +209,7 @@ Your two lowest homework scores and two lowest lab scores will be dropped in the
 
 ### Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScZ_AK4ZvHAHjrPw17XcUw1q28gUiemUEwawhQ4hDwhsQSnUQ/viewform?usp=sharing&ouid=101059318288823048881). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>Extension requests need to be submitted at least 24 hours before the deadline to be considered. </strong>. Extensions requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
+We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out this form (link forthcoming). Submissions to the form will be visible only to the course instructors, select Lead TAs, and the grading team. <strong>Extension requests need to be submitted at least 24 hours before the deadline to be considered.</strong> Extension requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
 
 <u><strong>Please read the entirety of the form and its instructions before/while submitting a request to reduce confusion</strong></u>. 
 
@@ -225,36 +235,22 @@ In addition, you may not use answers that you find online or that are generated 
 
 Students who are involved in academic misconduct on an exam will receive a failing grade in the course.
 
-
-## Thanks for reading! 
+## Thanks for reading!
 
 The main goal of the course is that you should learn and have a fantastic experience doing so. The other goal is, of course, to have fun. Welcome to Data C8!
 
-### Other helpful, campus resources
+### Other helpful campus resources
 
-
-[University Health Services](https://uhs.berkeley.edu/)
-
-[UCB Path to Care](https://care.berkeley.edu/)
-
-[Student Learning Center](https://slc.berkeley.edu/home)
-
-[Berkeley International Office](https://internationaloffice.berkeley.edu/home)
-
-[Ombuds Office for Students and Postdoctoral Appointees](https://studentaffairs.berkeley.edu/ombuds-office-for-students-postdoctoral-appointees/)
-
-[Gender Equity Resource Center](https://cejce.berkeley.edu/geneq)
-
-[Disabled Students' Program](https://dsp.berkeley.edu/)
-
-[Center for Educational Justice & Community Engagement](https://cejce.berkeley.edu/)
-
-[UHS Counseling and Psychological Services (CAPS)](https://uhs.berkeley.edu/caps)
-
-[Campus Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub)
-
-[ASUC Student Advocate’s Office](https://advocate.studentorg.berkeley.edu/)
-
-[Basic Needs Center](https://basicneeds.berkeley.edu/home)
-
-[ASUC Mental Health Resources Guide](https://asuc.org/wp-content/uploads/2018/02/Mental-Health-Resources.pdf)
+- [University Health Services](https://uhs.berkeley.edu/)
+- [UCB Path to Care](https://care.berkeley.edu/)
+- [Student Learning Center](https://slc.berkeley.edu/home)
+- [Berkeley International Office](https://internationaloffice.berkeley.edu/home)
+- [Ombuds Office for Students and Postdoctoral Appointees](https://studentaffairs.berkeley.edu/ombuds-office-for-students-postdoctoral-appointees/)
+- [Gender Equity Resource Center](https://cejce.berkeley.edu/geneq)
+- [Disabled Students' Program](https://dsp.berkeley.edu/)
+- [Center for Educational Justice & Community Engagement](https://cejce.berkeley.edu/)
+- [UHS Counseling and Psychological Services (CAPS)](https://uhs.berkeley.edu/caps)
+- [Campus Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub)
+- [ASUC Student Advocate’s Office](https://advocate.studentorg.berkeley.edu/)
+- [Basic Needs Center](https://basicneeds.berkeley.edu/home)
+- [ASUC Mental Health Resources Guide](https://asuc.org/wp-content/uploads/2018/02/Mental-Health-Resources.pdf)

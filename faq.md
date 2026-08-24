@@ -9,9 +9,13 @@ description: >-
 {: .warning }
 ⚠️ This content is subject to change while this message is displayed.
 
-# **Frequently Asked Questions**
+# **FAQs and Debugging**
+{:.no_toc}
 
-<br>
+1. TOC
+{:toc}
+
+## Frequently Asked Questions
 
 <details>
   <summary><strong>Q: What is the best way to get help in this course?</strong></summary>
@@ -48,11 +52,9 @@ description: >-
   <p style="margin-left:16px;">A: All applications for Academic Student Employee positions are managed centrally; you can find all the details <a href="https://cdss.berkeley.edu/dsus/student-opportunities/joining-data-course-staff" target="_blank">here</a>. Please do not email the instructors individually with your resume/etc, as they are not in a position to hire you.</p>
 </details>
 
+## Debugging
 
-# **Debugging**
-{:.no_toc}
-
-## Cells and the Autograder
+### Cells and the Autograder
 
 <details>
   <summary><strong>Why does running a particular cell cause my kernel to die?</strong></summary>
@@ -122,7 +124,7 @@ description: >-
   <p style="margin-left:16px;">2. Suppose you’re working on Lab 5. One solution is go directly to DataHub and rename your <code>lab05</code> folder to something else, like <code>lab05-old</code>. Then, click the Lab 5 link on the course website again, and it’ll bring you to a brand-new version of Lab 5. Then, you can copy your work from your old Lab 5 to this new one, which should have everything in it.</p>
 </details>
 
-## Specific Errors
+### Specific Errors
 A general rule of thumb when debugging is to look at the very last line of an error message. That’s usually the most informative part of the message, and will often tell you directly what’s wrong.
 
 
@@ -142,7 +144,7 @@ A general rule of thumb when debugging is to look at the very last line of an er
 </p>
 </details>
 
-## DataHub
+### DataHub
 
 <details>
   <summary><strong>Why can’t I log in to DataHub?</strong></summary>
@@ -168,12 +170,10 @@ A general rule of thumb when debugging is to look at the very last line of an er
 
 ---
 
-Courtesies to DSC 10: Principles of Data Science and their [debugging guide](https://dsc10.com/debugging/), as it was of great inspiration!
-
+Inspired by DSC 10: Principles of Data Science and their [debugging guide](https://dsc10.com/debugging/).
 
 <style>
     code {
         font-size: 80%;
     }
 </style>
-
