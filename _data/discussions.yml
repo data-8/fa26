@@ -13,10 +13,10 @@
 # link overrides the default link to the discussion page from the collection if 
 # you provided a slug or provides an external link
 discussions:
-  # - title: By the Numbers
-  #   slug: "disc01"
-  # - title: Intro to Tables & Causation
-  #   slug: "disc02"
+  - title: By the Numbers
+    slug: "disc01"
+  - title: Intro to Tables & Causation
+    slug: "disc02"
   # - title: Visualizations, Data Types, Extending Tables
   #   slug: "disc03"
   # - title: More Visualizations, Intro to Functions
