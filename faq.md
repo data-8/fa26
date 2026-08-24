@@ -9,12 +9,13 @@ description: >-
 {: .warning }
 ⚠️ This content is subject to change while this message is displayed.
 
+# **FAQs and Debugging**
+{:.no_toc}
+
 1. TOC
 {:toc}
 
 ## Frequently Asked Questions
-
-<br>
 
 <details>
   <summary><strong>Q: What is the best way to get help in this course?</strong></summary>
@@ -50,7 +51,6 @@ description: >-
   <summary><strong>Q: I would like to apply for a (u)GSI position for this course. What should I do?</strong></summary>
   <p style="margin-left:16px;">A: All applications for Academic Student Employee positions are managed centrally; you can find all the details <a href="https://cdss.berkeley.edu/dsus/student-opportunities/joining-data-course-staff" target="_blank">here</a>. Please do not email the instructors individually with your resume/etc, as they are not in a position to hire you.</p>
 </details>
-
 
 ## Debugging
 
