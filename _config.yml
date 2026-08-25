@@ -54,12 +54,12 @@ aux_links:
   # TODO(template): Move this to be built-in.
   OH Queue:
     - 'https://oh.data8.org/'
-  # Extensions:
-  #   - 'https://docs.google.com/forms/d/e/1FAIpQLScZ_AK4ZvHAHjrPw17XcUw1q28gUiemUEwawhQ4hDwhsQSnUQ/viewform?usp=dialog'
+  Extensions:
+    - 'https://forms.gle/sHSkk94ckv3Wk2qGA'
   # Review Sandbox:
   #   - 'https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-sp26&urlpath=tree/materials-sp26/sandbox/sandbox.ipynb'
-  # JupyTutor Feedback:
-  #   - 'https://docs.google.com/forms/d/e/1FAIpQLSed1Bq166rNDRTTws31O1Y4sSulFu8zY_y5jaM1K_3DBt7Plw/viewform?usp=dialog'
+  JupyTutor Feedback:
+    - 'https://docs.google.com/forms/d/e/1FAIpQLSePNu7yd_iscwKL2LLSTtEItMI4iGr_8bHotFG1WjKA3qMMDw/viewform?usp=publish-editor'
   # OATutor Feedback:
   #   - 'https://forms.gle/TUL9cmE9QiSy2SAh6'
 
