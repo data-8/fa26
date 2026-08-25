@@ -170,11 +170,11 @@ We _highly recommend_ starting early, so on the day that the project is released
 
 ### Exams
 
-Midterm 1 exam will be held in-person on Wednesday, September 23, 8-10pm PT. Midterm 2 exam will be held in-person on Wednesday, November 4, 8-10pm.
+The Midterm 1 exam will be held in-person on TBD (week of September 21). The Midterm 2 exam will be held in-person on TBD (evening, week of November 2). Precise dates and times will be announced soon.
 
 The final exam is required for a passing grade, and will be held in-person on Tuesday, December 15, 11:30am-2:30pm PT.
 
-There will be one alternate exam for each midterm (dates and times TBD). The alternate final exam is Tuesday, December 15, 3-6pm. Alternate exams are only for students who have a course conflict with the regular final exam time or who cannot attend the regular final exam due to a DSP accommodation.
+There will be one alternate exam for each midterm (dates and times TBD). There will be one alternate exam on the final on Tuesday, December 15, 3-6pm. Alternate exams are only for students who have a course conflict with the regular final exam time or who cannot attend the regular final exam due to a DSP accommodation.
 
 ## Grades
 
