@@ -171,10 +171,10 @@
             {%- endif -%}
 
             {%- comment -%} --- DISCUSSION LOGIC --- {%- endcomment -%}
-            {%- assign current_date = day | date: "%Y-%m-%d" -%}
-            {%- for disc_entry in site.data.discussions.discussions -%}
-                {%- assign disc_date = disc_entry.date | date: "%Y-%m-%d" -%}
-                {%- if disc_date == current_date -%}
+            {%- if site.data.syllabus.discussion_days contains day_of_week -%}
+                {%- assign disc_entry = site.data.discussions.discussions[discussion_index] -%}
+                
+                {%- if disc_entry -%}
                     {%- unless disc_entry.skip -%}
                         <div class="syllabus-item" style="margin-bottom: 4px;">
                             {%- assign disc_obj = nil -%}
@@ -215,8 +215,11 @@
                             {%- endif -%}
                         </div>
                     {%- endunless -%}
+
+                    {%- comment -%} 5. ALWAYS INCREMENT INDEX {%- endcomment -%}
+                    {%- assign discussion_index = discussion_index | plus: 1 -%}
                 {%- endif -%}
-            {%- endfor -%}
+            {%- endif -%}
 
             {%- comment -%} --- LAB LOGIC --- {%- endcomment -%}
             {%- if site.data.syllabus.lab_days contains day_of_week -%}
