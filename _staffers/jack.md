@@ -3,7 +3,7 @@ name: Jack Bruvold
 role: Tutor
 email: johnbruvold@berkeley.edu
 website: 
-photo: jack.png
+photo: jack.jpg
 pronouns: he/him
 team: 
 ---

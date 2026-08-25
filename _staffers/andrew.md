@@ -3,7 +3,7 @@ name: Andrew Taylor
 role: Head Teaching Assistant
 email: andrewtaylor@berkeley.edu
 website: 
-photo: andrew.png
+photo: andrew.jpg
 pronouns: he/him
 team: Course Director
 ---

@@ -12,7 +12,7 @@ nav_order: 5
 
 [Student Materials Folder](https://drive.google.com/drive/folders/1zwg3H9YJc2JtypU7vu3cE-U9lpsbCpi4?usp=drive_link)
 
-All official course materials (including Discussion and Tutoring worksheets) can be found in the above folder. These will be updated throughout the semester. -->
+All official course materials (including Discussion and Tutoring worksheets) can be found in the above folder. These will be updated throughout the semester.
 
 
 ## Notes
