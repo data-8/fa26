@@ -72,7 +72,7 @@ berkeley_theme_options:
 google_calendar:
   # This can be found in the settings for the calendar.
   # The calendar must be publicly readable.
-  google_calendar_id: c_9e2affe233911f41c73b050813fc50068830f3e0b3df0a7b165470948068de5b@group.calendar.google.com
+  google_calendar_id: c_841aabf0a65d6d2507f2c56bf17e6fbbdc74768517bba4be9843ec3aa5eef228@group.calendar.google.com
   # You need to make this, once per course, ideally via a SPA
   # TODO: Recommend adding link to Google cloud project here
   google_api_key: AIzaSyBGfcXLk7sDMIW-WI_DiERb0JHGiqBHtck
@@ -91,6 +91,11 @@ google_calendar:
       class: cal-tea-oh
       icon: fa-mug-hot
     - suffix: Instructor Office Hours
+      background_color: 'FFC31B' # gold medium
+      text_color: '000'
+      class: cal-tea-oh
+      icon: fa-person-circle-question
+    - suffix: Instructor Concept Hours
       background_color: 'FFC31B' # gold medium
       text_color: '000'
       class: cal-tea-oh
