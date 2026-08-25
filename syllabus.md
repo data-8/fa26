@@ -186,7 +186,7 @@ Grades will be assigned using the following weighted components. Every assignmen
 | Homework | 10% |
 | Projects | 10% |
 | Midterm 1 | 15% |
-| Midterm 1 | 15% |
+| Midterm 2 | 15% |
 | Final | 30% |
 
 Grades for Homework, Projects, and Labs will be posted on Pensive about 1 week after the assignment's due date. Solutions to the assignment and common mistakes will also be posted on Ed. It is up to you to check the solutions and request a regrade request before the regrade deadline (typically 5 days after grade release). Regrade requests can be made on Pensive. Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so please do not delay reviewing your work.
