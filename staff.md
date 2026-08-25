@@ -10,7 +10,7 @@ nav_order: 4
 Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-assistants), [Teaching Assistants](#teaching-assistants), [Tutors](#tutors)
 
 
-## Instructors
+## Instructors {#instructors}
 
 <div class="role flex">
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -20,7 +20,7 @@ Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-
 </div>
 
 
-## Head Teaching Assistants
+## Head Teaching Assistants {#head-teaching-assistants}
 
 **Email [data8@berkeley.edu](mailto:data8@berkeley.edu) for all logistical and student support questions!**
 
@@ -37,7 +37,7 @@ Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-
 {% endif %}
 
 
-## Teaching Assistants
+## Teaching Assistants {#teaching-assistants}
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
@@ -51,7 +51,7 @@ Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-
 </div>
 {% endif %}
 
-## Tutors
+## Tutors {#tutors}
 
 {% assign tutors = site.staffers | where: 'role', 'Tutor' %}
 {% assign num_tutors = tutors | size %}
