@@ -11,6 +11,7 @@ Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-
 
 
 ## Instructors
+
 <div class="role flex">
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
@@ -32,8 +33,8 @@ Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-
 {% for staffer in head_teaching_assistants %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
 </div>
+{% endif %}
 
 
 ## Teaching Assistants
@@ -47,8 +48,8 @@ Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
 </div>
+{% endif %}
 
 ## Tutors
 
@@ -60,5 +61,5 @@ Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-
 {% for staffer in tutors %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
 </div>
+{% endif %}
