@@ -24,22 +24,22 @@ description: >-
 
 <details>
   <summary><strong>Q: Where will our grades for assignments be displayed for the course?</strong></summary>
-  <p style="margin-left:16px;">A: Grades will be displayed on Pensieve for the written and autograded portions for all assignments (homeworks, labs, projects, and exams). For homeworks and projects, your total grade is the sum of the autograded portion and the written portion.</p>
+  <p style="margin-left:16px;">A: Grades will be displayed on Pensive for the written and autograded portions for all assignments (homeworks, labs, projects, and exams). For homeworks and projects, your total grade is the sum of the autograded portion and the written portion.</p>
 </details>
 
 <details>
-  <summary><strong>Q: I have a 80/100 on my grade report for a lab that I attended and got checked off. Why is this?</strong></summary>
+  <summary><strong>Q: I have a 20/100 on my grade report for a lab that I attended and got checked off. Why is this?</strong></summary>
   <p style="margin-left:16px;">A: Your attendance may have been marked incorrectly. Please contact your lab TA.</p>
 </details>
 
 <details>
-  <summary><strong>Q: I worked with a partner on a project, and they have a grade on Pensieve for the project while I do not. Why is this happening?</strong></summary>
-  <p style="margin-left:16px;">A: You were likely not added to the Pensieve submission. Have your partner add you to both the written work and autograder submission immediately and contact your lab TA.</p>
+  <summary><strong>Q: I worked with a partner on a project, and they have a grade on Pensive for the project while I do not. Why is this happening?</strong></summary>
+  <p style="margin-left:16px;">A: You were likely not added to the Pensive submission. Have your partner add you to both the written work and autograder submission immediately and contact your lab TA.</p>
 </details>
 
 <details>
   <summary><strong>Q: I noticed a mistake in the grading of the written portion of my homework. How can I get this fixed?</strong></summary>
-  <p style="margin-left:16px;">A: To get this fixed, you must submit a regrade request via Pensieve before the regrade deadline. This is known as the regrade request window. We unfortunately will not accept any regrades after the window has closed. All regrade deadline dates are posted on the same Ed post that releases the assignment grades and solutions.</p>
+  <p style="margin-left:16px;">A: To get this fixed, you must submit a regrade request via Pensive before the regrade deadline. This is known as the regrade request window. We unfortunately will not accept any regrades after the window has closed. All regrade deadline dates are posted on the same Ed post that releases the assignment grades and solutions.</p>
 </details>
 
 <details>
@@ -93,12 +93,12 @@ description: >-
 </details>
 
 <details>
-  <summary><strong>Why did a Pensieve test fail, when all the notebook’s tests passed?</strong></summary>
-  <p style="margin-left:16px;">This can happen if you’re running your notebook’s cells out-of-order. The autograder runs your notebook top-to-bottom. If you’re defining a variable at the bottom of your notebook and using it at the top, the Pensieve autograder will fail because it doesn’t recognize the variable when it encounters it.
+  <summary><strong>Why did a Pensive test fail, when all the notebook’s tests passed?</strong></summary>
+  <p style="margin-left:16px;">This can happen if you’re running your notebook’s cells out-of-order. The autograder runs your notebook top-to-bottom. If you’re defining a variable at the bottom of your notebook and using it at the top, the Pensive autograder will fail because it doesn’t recognize the variable when it encounters it.
 </p>
   <p style="margin-left:16px;">Additionally, this can fail if you have not saved before you run the autograder. Ensure you select File -> Save Notebook to avoid this.
 </p>
-    <p style="margin-left:16px;">This is why we recommend running Kernel -> Restart and Run All: it “forgets” all of the variables and runs the notebook from top-to-bottom, just like the Pensieve autograder will. This will highlight any issues. Find the first cell that raises an error. Make sure that all of the variables used in that cell have been defined above that cell, and not below.
+    <p style="margin-left:16px;">This is why we recommend running Kernel -> Restart and Run All: it “forgets” all of the variables and runs the notebook from top-to-bottom, just like the Pensive autograder will. This will highlight any issues. Find the first cell that raises an error. Make sure that all of the variables used in that cell have been defined above that cell, and not below.
 </p>
 </details>
 
@@ -119,7 +119,7 @@ description: >-
 <details>
   <summary><strong>I accidentally deleted something in a cell that was provided to me – how do I get it back?</strong></summary>
   <p style="margin-left:16px;">There are two solutions:</p>
-  <p style="margin-left:16px;">1. In <a href="https://github.com/data-8/materials-sp26">this</a>
+  <p style="margin-left:16px;">1. In <a href="https://github.com/data-8/materials-fa26">this</a>
  public GitHub repository, you’ll find the “original” versions of all assignments we released this semester. You can look here and manually add back any necessary code or text that you accidentally deleted.</p>
   <p style="margin-left:16px;">2. Suppose you’re working on Lab 5. One solution is go directly to DataHub and rename your <code>lab05</code> folder to something else, like <code>lab05-old</code>. Then, click the Lab 5 link on the course website again, and it’ll bring you to a brand-new version of Lab 5. Then, you can copy your work from your old Lab 5 to this new one, which should have everything in it.</p>
 </details>
