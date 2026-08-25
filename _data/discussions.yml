@@ -13,31 +13,31 @@
 # link overrides the default link to the discussion page from the collection if 
 # you provided a slug or provides an external link
 discussions:
-  # - title: By the Numbers
-  #   slug: "disc01"
-  # - title: Intro to Tables & Causation
-  #   slug: "disc02"
-  # - title: Visualizations, Data Types, Extending Tables
-  #   slug: "disc03"
-  # - title: More Visualizations, Intro to Functions
-  #   slug: "disc04"
-  # - title: Table Methods, Conditionals & Iteration
-  #   slug: "disc05"
-  # - title: Chance & Models
-  #   slug: "disc06"
-  # - title: Midterm Review
-  #   slug: "disc07"
-  # - title: More Midterm Review
-  #   slug: "disc08"
-  # - title: The Bootstrap
-  #   slug: "disc09"
-  # - title: The Central Limit Theorem
-  #   slug: "disc10"
-  # - title: Correlation & Regression
-  #   slug: "disc11"
-  # - title: Residuals
-  #   slug: "disc12"
-  # - title: Intervals for Predictions & kNN Classification
-  #   slug: "disc13"
-  # - title: Bayes
-  #   slug: "disc14"
+  - title: By the Numbers
+    slug: "disc01"
+  - title: Intro to Tables & Causation
+    slug: "disc02"
+  - title: Visualizations, Data Types, Extending Tables
+    slug: "disc03"
+  - title: More Visualizations, Intro to Functions
+    slug: "disc04"
+  - title: Table Methods, Conditionals & Iteration
+    slug: "disc05"
+  - title: Chance & Models
+    slug: "disc06"
+  - title: Midterm Review
+    slug: "disc07"
+  - title: More Midterm Review
+    slug: "disc08"
+  - title: The Bootstrap
+    slug: "disc09"
+  - title: The Central Limit Theorem
+    slug: "disc10"
+  - title: Correlation & Regression
+    slug: "disc11"
+  - title: Residuals
+    slug: "disc12"
+  - title: Intervals for Predictions & kNN Classification
+    slug: "disc13"
+  - title: Bayes
+    slug: "disc14"
