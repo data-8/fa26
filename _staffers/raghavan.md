@@ -2,7 +2,7 @@
 name: Raghavan Srinivas
 role: Teaching Assistant
 email: raghavan.srinivas@berkeley.edu
-website: raghavansrinivas.com
+website: https://raghavansrinivas.org/
 photo: raghavan.png
 pronouns: 
 team: 
