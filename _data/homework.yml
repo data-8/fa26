@@ -14,7 +14,7 @@
 # you provided a slug or provides an external link
 homework:
   - title: Homework 1 (due 9/2)
-    link: 
+    link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw01%2Fhw01.ipynb
   - title: Homework 2 (due 9/9)
     link: 
   - title: Homework 3 (due 9/16)
