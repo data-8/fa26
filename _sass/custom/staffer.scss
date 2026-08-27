@@ -1,22 +1,15 @@
 .staffer {
   display: flex;
   margin: $sp-4;
-  position: relative;
+  position: relative; /* Confines stacking contexts */
 
-  .staffer-image-wrapper {
-    width: 100px;
+  .staffer-image {
+    border-radius: 50%;
+    width: 100px;  /* Added explicit width to preserve proportions */
     height: 100px;
     margin-right: $sp-4;
-    border-radius: 50%;
-    overflow: hidden;
+    object-fit: cover;
     flex-shrink: 0;
-
-    .staffer-image {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    }
   }
 
   p,
@@ -34,10 +27,10 @@
   }
 
   .staffer-office-hours-front {
-    font-weight: normal;
+    font-weight: normal; /* Ensure the whole paragraph is normal by default */
   }
   
   .office-hours-label {
-    font-weight: bold;
+    font-weight: bold; /* Make only the label bold */
   }
 }

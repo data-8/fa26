@@ -1,11 +1,9 @@
 <div class="staffer">
-  <div class="staffer-image-wrapper"></div>
-    {%- if page.photo -%}
-    <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}{{ page.photo }}" alt="{{ page.name }} profile photo" width="{{ page.width }}" height="{{ page.height }}">
-    {%- else -%}
-    <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}default_photo.jpg" alt="{{ page.name }} profile photo" width="{{ page.width }}" height="{{ page.height }}">
-    {%- endif -%}
-  </div>
+  {%- if page.photo -%}
+  <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}{{ page.photo }}" alt="{{ page.name }} profile photo" width="{{ page.width }}" height="{{ page.height }}">
+  {%- else -%}
+  <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}default_photo.jpg" alt="{{ page.name }} profile photo" width="{{ page.width }}" height="{{ page.height }}">
+  {%- endif -%}
   <div>
     <h3 class="staffer-name" id="{{ page.name | slugify }}">
       {%- if page.website -%}
