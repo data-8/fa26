@@ -6,14 +6,11 @@ description: >-
 nav_order: 3
 ---
 
-{: .warning }
-⚠️ This content is subject to change while this message is displayed.
+<!--{: .warning }
+⚠️ This content is subject to change while this message is displayed.-->
 
 # **Syllabus**
 {:.no_toc}
-
-
-<!--<p style="font-size:20px">This page is under construction. The syllabus will be updated when the semester begins.</p>-->
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -43,7 +40,6 @@ When you need help, reach out to the course staff using Ed, in office hours, and
 
 Finally, know that it's normal to struggle. Berkeley has high standards, which is one of the reasons its degrees are valued. Everyone struggles, even though many try not to show it. Even if you don't fully master everything covered, you can build on what you did learn, and oftentimes, things will just naturally click into place over time. Try to enjoy the journey, even when it's challenging, and please talk to the course staff about your challenges.
 
-
 ## About the Course
 
 ### Course Description
@@ -62,15 +58,15 @@ The computing platform for the course is hosted at [data8.datahub.berkeley.edu](
 
 ### Support in learning the content
 
-It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. 
+It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions.
 
 #### Office hours
 
-Visit the "Weekly Calendar & OH" tab on this website (left sidebar) to see our weekly office hour schedule. Both the instructor and the staff will be hosting weekly office hours. 
+Visit the "Weekly Calendar & OH" tab on this website (left sidebar) to see our weekly office hour schedule. Both the instructor and the staff will be hosting weekly office hours. Instructor hours have two categories: Concept Hours (for Data 8 course content) and Tea Hours (for advising).
 
 #### Ed discussion forum
 
-For questions about course material outside of Office Hours, students will use our course discussion forum, Ed Discussion (“Ed”). Ed is a great resource for asking questions about course material and getting help from the professor, course staff, and other students. 
+For questions about course material outside of Office Hours, students will use our course discussion forum, Ed Discussion (“Ed”). Ed is a great resource for asking questions about course material and getting help from the professor, course staff, and other students.
 
 Ed is a formal, academic space. Posts in this forum must relate to the course and be in alignment with [Berkeley’s Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/code-of-conduct/). We expect all posts to demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. Posts that violate these standards will be removed.
 
@@ -90,23 +86,23 @@ If you are enrolled in the in-person lecture, you may come in person or join on 
 
 Weekly labs include a discussion worksheet covering recent material and a programming-based lab assignment that develops skills with computational and inferential concepts. The problems in lab are good preparation for similar problems you will see on your homework assignments! The discussion problems are often similar to exam problems. Lab assignments will be released on Monday night each week.  
 
-This semester, we offer two lab formats for you to choose from: regular lab, and self-service lab. Both are designed to help students learn the course material equally well. 
+This semester, we offer two lab formats for you to choose from: regular lab, and self-service lab. Both are designed to help students learn the course material equally well.
 
 #### Choosing a Lab Format
 {: .no_toc }
 
 First-year students and students without prior programming experience are strongly encouraged to choose the regular lab. Working on programming-based lab assignments in a small classroom with dedicated course staff available to help is a great way to learn, especially if this is your first exposure to coding! The regular lab format also has advantages for students who wish to practice materials in a discussion-based format, wish to work with others and wish to have a dedicated lab uGSI and tutors for immediate support during lab time.
 
-The self-service lab is designed to appeal to students who learn well from large-format lectures, work independently at their own pace, and come to drop-in office hours when they need help. It also appeals to those with a background in computer programming. 
+The self-service lab is designed to appeal to students who learn well from large-format lectures, work independently at their own pace, and come to drop-in office hours when they need help. It also appeals to those with a background in computer programming.
 
 #### Regular Lab
 {: .no_toc }
 
-- The first hour focuses on a discussion worksheet and group problem-solving. We encourage no use of technology during this portion of the lab (all materials required will be available at the lab section). 
-- The second hour is dedicated to completing a programming-based assignment. 
-- 80% of lab credit will be attendance-based. 
-- The remaining 20% of credit will be awarded for submitting the programming-based assignment to Pensive with all test cases passing. Discussion worksheets do not need to be submitted. 
-- Active participation in the discussion and lab is required to earn attendance credit. 
+- The first hour focuses on a discussion worksheet and group problem-solving. We encourage no use of technology during this portion of the lab (all materials required will be available at the lab section).
+- The second hour is dedicated to completing a programming-based assignment.
+- 80% of lab credit will be attendance-based.
+- The remaining 20% of credit will be awarded for submitting the programming-based assignment to Pensive with all test cases passing. Discussion worksheets do not need to be submitted.
+- Active participation in the discussion and lab is required to earn attendance credit.
 - Lab sessions will not be webcast or recorded.
 
 
@@ -158,7 +154,7 @@ Data science is about analyzing real-world data sets, and so you will also compl
 
 There are three projects throughout the semester. For each project, you will submit in two parts: first, a checkpoint, and then, the completed project. Don't share your code with anybody but your partner. Similar to homework, there are **5 extra points** available for submitting 24 hours in advance of the deadline. You are welcome to discuss questions with other students but don't share the answers. If someone (who is not your partner) asks you for the answer, you might demonstrate how you would solve a similar problem.
 
-The projects can seem long and difficult, but you are encouraged to get help! Come to office hours, post on Ed, and talk to your classmates. If you want to ask about the details of your solution to a problem, make a private Ed post and the staff will respond. If you're ever feeling overwhelmed or don't know how to make progress, email your TA or tutor for help. You can find contact information for the staff on the course website. 
+The projects can seem long and difficult, but you are encouraged to get help! Come to office hours, post on Ed, and talk to your classmates. If you want to ask about the details of your solution to a problem, make a private Ed post and the staff will respond. If you're ever feeling overwhelmed or don't know how to make progress, email your TA or tutor for help. You can find contact information for the staff on the course website.
 
 We _highly recommend_ starting early, so on the day that the project is released, and doing each bit that you can with the material that you have been exposed to in lecture/lab up until that point. Continue in this fashion, working day-by-day, and you're more likely to have a stress-free experience!
 
@@ -170,9 +166,7 @@ We _highly recommend_ starting early, so on the day that the project is released
 
 ### Exams
 
-The Midterm 1 exam will be held in-person on Monday, September 21, 8pm-10pm. The Midterm 2 exam will be held in-person on Wednesday, November 4, 8pm-10pm. 
-
-The final exam is required for a passing grade, and will be held in-person on Tuesday, December 15, 11:30am-2:30pm PT.
+The Midterm 1 exam will be held in-person on Monday, September 21, 8pm-10pm. The Midterm 2 exam will be held in-person on Wednesday, November 4, 8pm-10pm. The final exam is required for a passing grade and will be held in-person on Tuesday, December 15, 11:30am-2:30pm PT.
 
 There will be one alternate exam for each midterm (dates and times TBD). There will be one alternate exam on the final on Tuesday, December 15, 3-6pm. Alternate exams are only for students who have a course conflict with the regular final exam time or who cannot attend the regular final exam due to a DSP accommodation.
 
@@ -195,7 +189,7 @@ Grades for Homework, Projects, and Labs will be posted on Pensive about 1 week a
 
 All assignments (homework, labs, and projects) will be submitted on Pensive. Here's a [tutorial](https://drive.google.com/file/d/1geOaRRmQonac1A5WVjzlcEl1NS2nAt37/view?usp=sharing) for submitting assignments (make sure you’re logged into your Berkeley e-mail).
 
-*It is your responsibility to make sure the autograder tests results in the notebook match the autograder results on Pensive after you submit.* We understand that the submission process is new for many students taking the course. To account for this, we will do our best to accommodate submission-related issues (submitting to the wrong assignment, not saving files correctly, autograder timing out) up until the third week of the course. After the third week, it is **your responsibility** to confirm you have submitted your work correctly. We reserve the right to impose penalties for having to resubmit students’ work beyond this point.
+_It is your responsibility to make sure the autograder tests results in the notebook match the autograder results on Pensive after you submit._ We understand that the submission process is new for many students taking the course. To account for this, we will do our best to accommodate submission-related issues (submitting to the wrong assignment, not saving files correctly, autograder timing out) up until the third week of the course. After the third week, it is **your responsibility** to confirm you have submitted your work correctly. We reserve the right to impose penalties for having to resubmit students’ work beyond this point.
 
 Before posting about code errors, please check our [FAQs & Debugging page]({{ site.url }}{{ site.baseurl }}/faq/)! We have listed common errors and reasons why they might be coming up for you. If you run into any issues working on Jupyter Notebook, check out our [DataHub Guide]({{ site.url }}{{ site.baseurl }}/faq/#datahub).
 
@@ -209,9 +203,9 @@ Your two lowest homework scores and two lowest lab scores will be dropped in the
 
 ### Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out this form: [Extension Form](https://forms.gle/sHSkk94ckv3Wk2qGA). Submissions to the form will be visible only to the course instructors, select Lead TAs, and the grading team. <strong>Extension requests need to be submitted at least 24 hours before the deadline to be considered.</strong> Extension requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
+We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out this form: [Extensions](https://forms.gle/sHSkk94ckv3Wk2qGA). _**Please read the entirety of the form and its instructions before/while submitting a request**_.
 
-<u><strong>Please read the entirety of the form and its instructions before/while submitting a request to reduce confusion</strong></u>. 
+Submissions to the form will be visible only to the course instructors, select Lead TAs, and the grading team. **Extension requests need to be submitted at least 24 hours before the deadline to be considered.** Extension requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
 
 We hope that this policy encourages you to be proactive in communicating difficulties in advance while also allowing flexibility in the case of unforeseen circumstances.
 
