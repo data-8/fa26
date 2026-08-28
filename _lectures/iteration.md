@@ -1,7 +1,7 @@
 ---
 published: true
 date: 2026-9-28
-presented_by: Lisa Yan
+presented_by: John DeNero
 title: Conditionals and Iteration
 # files:
 #   slides: https://docs.google.com/presentation/d/1VJCXCHcpzjvCAi-IVUonS9BP14-hG3An2IRkkqu4blc/edit?usp=sharing
