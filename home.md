@@ -7,9 +7,8 @@ published: true
 permalink: /
 ---
 
-{: .warning }
-⚠️ This content is subject to change while this message is displayed.
-
+<!-- {: .warning }
+⚠️ This content is subject to change while this message is displayed. -->
 
 # **Data 8: Foundations of Data Science**
 
