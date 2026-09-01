@@ -308,8 +308,8 @@ links:
   #   lab08: "[Lab 08](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab08%2Flab08.ipynb)"
   #   lab09: "[Lab 09](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab09%2Flab09.ipynb)"
   #   lab10: "[Lab 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab10%2Flab10.ipynb)"
-  # hw:
-  #   hw01: "[Homework 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw01%2Fhw01.ipynb)"
+    hw:
+      hw01: "[Homework 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw01%2Fhw01.ipynb)"
   #   hw02: "[Homework 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw02%2Fhw02.ipynb)"
   #   hw03: "[Homework 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw03%2Fhw03.ipynb)"
   #   hw04: "[Homework 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw04%2Fhw04.ipynb)"
