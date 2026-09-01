@@ -29,6 +29,19 @@ div.highlighter-rouge div.highlight {
     border-collapse: collapse;
 }
 
+// for narrow screens (12%), make date column more readable
+@media (max-width: 600px) {
+    .syllabus-container table.spanned-table tbody tr td:nth-child(1) {
+        width: 25% !important;
+    }
+    .syllabus-container table.spanned-table tbody tr td:nth-child(2) {
+        width: 50% !important;
+    }
+    .syllabus-container table.spanned-table tbody tr td:nth-child(3) {
+        width: 25% !important;
+    }
+}
+
 // fix Note block colors for dark mode
 p.note, blockquote.note {
   border-left-color: #7253ed; 
