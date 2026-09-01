@@ -15,7 +15,7 @@
 labs:
 # Lab 1 in _data/syllabus.yml b/c not on Monday
   - title: Lab 2 (due 9/4)
-    link: 
+    link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab02%2Flab02.ipynb
   - title: Lab 3 (due 9/11)
     link: 
   - title: Lab 4 (due 9/18)

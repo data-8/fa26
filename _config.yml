@@ -297,9 +297,9 @@ exclude:
   - node_modules/
 
 links:
-  #   lab:
+    lab:
   #   lab01: "[Lab 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab01%2Flab01.ipynb)"
-  #   lab02: "[Lab 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab02%2Flab02.ipynb)"
+      lab02: "[Lab 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab02%2Flab02.ipynb)"
   #   lab03: "[Lab 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab03%2Flab03.ipynb)"
   #   lab04: "[Lab 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab04%2Flab04.ipynb)"
   #   lab05: "[Lab 05](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab05%2Flab05.ipynb)"
