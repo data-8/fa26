@@ -99,9 +99,7 @@
                     </strong>
                 {%- endif -%}
                 {%- if extra.link -%}
-                    <a href="{{ extra.link }}">
-                        {{extra.title }}
-                    </a>
+                    <a href="{{ extra.link }}">{{ extra.title }}</a>
                 {%- else -%}
                     <span>{{ extra.title }}</span>
                 {%- endif -%}
@@ -156,9 +154,7 @@
 
                             {%- comment -%} 4. RENDER LINK OR TITLE {%- endcomment -%}
                             {%- if display_link -%}
-                                <a href="{{ display_link }}" {% if release_iso %}data-release="{{ release_iso }}"{% endif %}>
-                                    {{ display_title }}
-                                </a>
+                                <a href="{{ display_link }}"{% if release_iso %} data-release="{{ release_iso }}"{% endif %}>{{ display_title }}</a>
                             {%- else -%}
                                 <span>{{ display_title }}</span>
                             {%- endif -%}
