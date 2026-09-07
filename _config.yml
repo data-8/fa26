@@ -47,7 +47,7 @@ class_archive_path: /
 # favicons can be course specific or you can use the default Berkeley one that comes with the template.
 # favicon_ico: "/favicon.png"
 
-current_week: 2
+current_week: 3
 
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:
@@ -300,7 +300,7 @@ links:
     lab:
   #   lab01: "[Lab 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab01%2Flab01.ipynb)"
       lab02: "[Lab 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab02%2Flab02.ipynb)"
-  #   lab03: "[Lab 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab03%2Flab03.ipynb)"
+      lab03: "[Lab 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab03%2Flab03.ipynb)"
   #   lab04: "[Lab 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab04%2Flab04.ipynb)"
   #   lab05: "[Lab 05](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab05%2Flab05.ipynb)"
   #   lab06: "[Lab 06](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab06%2Flab06.ipynb)"
