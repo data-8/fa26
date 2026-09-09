@@ -50,7 +50,7 @@ lectures:
             url: https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html
           - text: 6.2
             url: https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html
-  - title: <b>Academic Holiday</b>
+  - title: "<b>Academic Holiday</b>"
     nonumber: true
   - slug: census
     readings:
@@ -219,7 +219,7 @@ lectures:
             url: https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html
           - text: 15.4
             url: https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html
-  - title: <b>Academic Holiday</b>
+  - title: "<b>Academic Holiday</b>"
     nonumber: true
   - slug: residuals
     readings:
@@ -250,9 +250,9 @@ lectures:
       - links:
           - text: 17.5
             url: https://inferentialthinking.com/chapters/17/5/Accuracy_of_the_Classifier.html
-  - title: <b>Non-Instructional Day</b>
+  - title: "<b>Non-Instructional Day</b>"
     nonumber: true
-  - title: <b>Academic Holiday</b>
+  - title: "<b>Academic Holiday</b>"
     nonumber: true
   - slug: updating-probabilities
     readings:
