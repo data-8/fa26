@@ -2,7 +2,7 @@
 name: Sarah Zuo
 role: Head Teaching Assistant
 email: sarahzuo@berkeley.edu
-website:
+website: https://drive.google.com/drive/folders/1H0_DNuuU6JLU_ceN1u6-29aqeP3ADtUY?usp=sharing
 photo: sarah2.jpg
 pronouns: she/her
 team: Content

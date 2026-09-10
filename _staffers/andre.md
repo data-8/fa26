@@ -2,7 +2,7 @@
 name: Andre Lee
 role: Teaching Assistant
 email: andrelee@berkeley.edu
-website: 
+website: https://drive.google.com/drive/u/1/folders/1wr9YiNq_IM8zigxUjlrXyXaQtXL7ZMkJ
 photo: andre.jpg
 pronouns: he/him
 team:
