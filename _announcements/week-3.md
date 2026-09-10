@@ -12,4 +12,6 @@ The Midterm 1 exam will be held in-person on Monday, September 21, 8pm-10pm. The
 
 {{site.links.lab.lab03}} has been released and is due on Friday, September 11 @ 5 PM.
 
+{{site.links.hw.hw03}} has been released and is due on Wednesday, September 16 @ 10 AM.
+
 Starting this week, all students can attend in-person lecture. There is no lecture on Monday, September 7 (Labor Day).
