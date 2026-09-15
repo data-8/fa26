@@ -1,9 +1,9 @@
 ---
 title: Discussion 4
-description: More Visualizations, Intro to Functions
-# links:
-#     - name: Blank
-#       url: https://drive.google.com/file/d/1aEVpz15Fh_qUDl0qTFLsRU_K6AkT9J40/view?usp=drive_link
+description: Histagrams, Functions and Midterm 1 Review
+links:
+    - name: Blank
+      url: https://drive.google.com/file/d/1OLb7s2Vj0pxZMHMOjaRnoMRjFgEQojuk/view?usp=sharing
 #     - name: Solutions
 #       url: https://drive.google.com/file/d/1zp16duOqKNn8ezWbKFUGe0SQEh-CLMSI/view?usp=drive_link 
 #     - name: OATutor Online Worksheet
