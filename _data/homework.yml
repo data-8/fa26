@@ -20,8 +20,7 @@ homework:
   - title: Homework 3 (due 9/16)
     link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw03%2Fhw03.ipynb
   - title: Homework 4 (due 9/30)
-    link: 
-  - skip: true
+    link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw04%2Fhw04.ipynb
   - skip: true
   - title: Homework 5 (due 10/14)
     link: 
