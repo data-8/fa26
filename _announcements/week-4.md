@@ -11,3 +11,5 @@ Come to the [Midterm 1 Review](https://edstem.org/us/courses/102302/discussion/8
 {{site.links.hw.hw03}} has been released and is due on Wednesday, September 16 @ 10 AM.
 
 {{site.links.lab.lab04}} has been released and is due on Friday, September 18 @ 5 PM.
+
+{{site.links.hw.hw04}} has been released and is due on Wednesday, September 16 @ 10 AM.
