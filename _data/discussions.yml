@@ -21,6 +21,7 @@ discussions:
     slug: "disc03"
   - title: Histograms, Functions and Midterm 1 Review
     slug: "disc04"
+  - skip: true
   - title: Table Methods, Conditionals & Iteration
     slug: "disc05"
   - title: Chance & Models
