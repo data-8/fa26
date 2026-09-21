@@ -81,7 +81,8 @@ lectures:
           - text: 8.1
             url: https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html
   - slug: midterm1-review
-  - skip: true
+  - title: No Lecture
+    nonumber: true
   - slug: groups
     readings:
       - links:
