@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2026-09-21
+date: 2026-09-18
 presented_by: Lisa Yan
 title: Midterm 1 Review
 files:
