@@ -321,7 +321,7 @@ links:
   #   hw10: "[Homework 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw10%2Fhw10.ipynb)"
   #   hw11: "[Homework 11](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw11%2Fhw11.ipynb)"
   #   hw12: "[Homework 12](https://edstem.org/us/courses/91618/discussion/8015026)"
-  # project:
-  #   project01: "[Project 1: World Population and Poverty](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fproject%2Fproject1%2Fproject1.ipynb)"
+    project:
+      project01: "[Project 1: World Population and Poverty](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject1%2Fproject1.ipynb)"
   #   project02: "[Project 2: Climate](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fproject%2Fproject2%2Fproject2.ipynb)"
   #   project03: "[Project 3: Movie Classification](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fproject%2Fproject3%2Fproject3.ipynb)"
