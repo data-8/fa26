@@ -112,29 +112,29 @@ lectures:
             url: https://inferentialthinking.com/chapters/09/3/Simulation.html
           - text: 9.4
             url: https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html
+          - text: 9.5
+            url: https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html
   - slug: sampling
     readings:
       - links:
-          - text: 9.5
-            url: https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html
           - text: 10
             url: https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html
           - text: 10.1
             url: https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html
-  - slug: models
-    readings:
-      - links:
           - text: 10.2
             url: https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html
           - text: 10.3
             url: https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html
           - text: 10.4
             url: https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html
-  - slug: comparing-distributions
+  - slug: models
     readings:
       - links:
           - text: 11.1
             url: https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html
+  - slug: comparing-distributions
+    readings:
+      - links:
           - text: 11.2
             url: https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html
   - slug: decisions
