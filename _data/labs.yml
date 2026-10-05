@@ -23,7 +23,7 @@ labs:
   - skip: true
   - skip: true
   - title: Lab 5 (due 10/9)
-    link: 
+    link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab05%2Flab05.ipynb
   - title: Lab 6 (due 10/16)
     link: 
   - title: Lab 7 (due 10/23)
