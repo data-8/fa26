@@ -1,6 +1,6 @@
 ---
 title: Discussion 8
-description: Discussion 8
+description:
 # links:
 #     - name: Blank
 #       url: https://drive.google.com/file/d/1WU8GBlu3lJO55mByQP4oH9kq0e4DCZDM/view?usp=sharing

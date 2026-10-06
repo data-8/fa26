@@ -1,6 +1,6 @@
 ---
 title: Discussion 7
-description: Discussion 7
+description:
 # links:
 #     - name: Blank
 #       url: https://drive.google.com/file/d/16czMYIBUo-uSpvSTRsXKZDNM1Fv9dlEU/view?usp=sharing
