@@ -13,28 +13,28 @@
 # link overrides the default link to the homework page from the collection if 
 # you provided a slug or provides an external link
 homework:
-  - title: Homework 1 (due 9/2)
+  - title: Causality and Expressions (due 9/2)
     link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw01%2Fhw01.ipynb
-  - title: Homework 2 (due 9/9)
+  - title: Arrays and Tables (due 9/9)
     link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw02%2Fhw02.ipynb
-  - title: Homework 3 (due 9/16)
+  - title: Table Manipulation and Visualization (due 9/16)
     link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw03%2Fhw03.ipynb
-  - title: Homework 4 (due 9/30)
+  - title: Functions, Tables, and Groups (due 9/30)
     link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw04%2Fhw04.ipynb
   - skip: true
   - skip: true
-  - title: Homework 5 (due 10/14)
+  - title: Chance, Empirical Probability Distribution (due 10/14)
     link: 
-  - title: Homework 6 (due 10/21)
+  - title: Assessing Models and Testing Hypotheses (due 10/21)
     link: 
-  - title: Homework 7 (due 10/28)
+  - title: Confidence Intervals (due 10/28)
     link: 
-  - title: Homework 8 (due 11/10)
+  - title: Sample Sizes and Confidence Intervals (due 11/10)
     link: 
   - skip: true
-  - title: Homework 9 (due 11/18)
+  - title: Linear Regression (due 11/18)
     link: 
-  - title: Homework 10 (Due 11/25)
+  - title: Regression Inference (Due 11/25)
     link: 
   - skip: true
   - title: <b>RRR Week</b>

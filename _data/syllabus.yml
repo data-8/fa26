@@ -22,12 +22,12 @@ extra_days_col2:
     title: "Midterm 2, 8-10pm"
     label: exam
   - date: 2026-11-30
-    title: "Homework 11 (due 12/6)"
+    title: "Classification (due 12/6)"
     label: homework
     num: 11
     link: 
   - date: 2026-12-4
-    title: "Homework 12 (due 12/9)"
+    title: "Extra Credit (due 12/9)"
     label: homework
     num: 12
     link:
