@@ -2,7 +2,7 @@
 name: Isaac Chung
 role: Head Teaching Assistant
 email: ichung727@berkeley.edu
-website: 
+website: https://linktr.ee/isaacFA26
 photo: isaac.webp
 pronouns: he/him
 team: Pedagogy

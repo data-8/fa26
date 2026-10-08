@@ -1,7 +1,7 @@
 ---
 published: true
 date: 2026-10-2
-presented_by: Lisa Yn
+presented_by: Lisa Yan
 title: Sampling
 files:
   slides: https://docs.google.com/presentation/d/1uBZYkSSxak7cD8bJq1wmg9Aie8iAhhcHh3nJJlpc6ws/edit?usp=sharing
