@@ -1,6 +1,6 @@
 ---
 title: Discussion 7
-description:
+description: Hypothesis and A/B Testing
 links:
     - name: Blank
       url: https://drive.google.com/file/d/1zWn0Akl-FHogL0OVy51pRWTizjqdShc3/view?usp=sharing
