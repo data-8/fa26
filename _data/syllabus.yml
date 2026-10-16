@@ -31,6 +31,10 @@ extra_days_col2:
     label: homework
     num: 12
     link:
+  - date: 2026-12-03
+    title: ""
+  - date: 2026-12-10
+    title: "RRR Week"
   - date: 2026-12-15
     title: "Final Exam"
     label: exam
