@@ -47,7 +47,7 @@ class_archive_path: /
 # favicons can be course specific or you can use the default Berkeley one that comes with the template.
 # favicon_ico: "/favicon.png"
 
-current_week: 8
+current_week: 9
 
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:
@@ -304,7 +304,7 @@ links:
       lab04: "[Lab 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab04%2Flab04.ipynb)"
       lab05: "[Lab 05](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab05%2Flab05.ipynb)"
       lab06: "[Lab 06](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab06%2Flab06.ipynb)"
-  #   lab07: "[Lab 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab07%2Flab07.ipynb)"
+      lab07: "[Lab 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab07%2Flab07.ipynb)"
   #   lab08: "[Lab 08](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab08%2Flab08.ipynb)"
   #   lab09: "[Lab 09](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab09%2Flab09.ipynb)"
   #   lab10: "[Lab 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&branch=main&urlpath=tree%2Fmaterials-sp26%2Flab%2Flab10%2Flab10.ipynb)"
