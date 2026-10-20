@@ -1,9 +1,9 @@
 ---
 title: Discussion 8
-description:
-# links:
-#     - name: Blank
-#       url: https://drive.google.com/file/d/1WU8GBlu3lJO55mByQP4oH9kq0e4DCZDM/view?usp=sharing
+description: The Bootstrap and Confidence Intervals
+links:
+      - name: Blank
+        url: https://drive.google.com/file/d/19ZT0DXxZAQ6le37giqBTK652XPd3x5wl/view?usp=sharing
 #     - name: Solution
 #       url: https://drive.google.com/file/d/1l29r1H-9SyKkQWHx_rPNS8FagQnxdQwe/view?usp=sharing
 #     - name: OATutor Online Worksheet
