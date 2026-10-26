@@ -18,6 +18,9 @@ extra_days_col2:
   - date: 2026-09-21
     title: "Midterm 1, 8-10pm"
     label: exam
+  - date: 2026-10-26
+    title: "Sample Sizes and Confidence Intervals (due 11/10)"
+    label: homework
   - date: 2026-11-04
     title: "Midterm 2, 8-10pm"
     label: exam
