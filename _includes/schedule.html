@@ -93,6 +93,17 @@
                     <strong class="label label-{{ extra.label }}">
                     {{ extra.label | capitalize }} {{ extra.num }}
                     </strong>
+                    {%- comment -%} Keep the matching counter in sync so the next regular entry is numbered after this one {%- endcomment -%}
+                    {%- case extra.label -%}
+                    {%- when "homework" -%}
+                        {%- assign homework_number = extra.num | plus: 1 -%}
+                    {%- when "lecture" -%}
+                        {%- assign lecture_number = extra.num | plus: 1 -%}
+                    {%- when "discussion" -%}
+                        {%- assign discussion_number = extra.num | plus: 1 -%}
+                    {%- when "lab" -%}
+                        {%- assign lab_number = extra.num | plus: 1 -%}
+                    {%- endcase -%}
                 {%- elsif extra.label and extra.label != "none" -%}
                     <strong class="label label-{{ extra.label }}">
                     {{ extra.label | capitalize }}
