@@ -4,8 +4,8 @@ description: The Bootstrap and Confidence Intervals
 links:
       - name: Blank
         url: https://drive.google.com/file/d/19ZT0DXxZAQ6le37giqBTK652XPd3x5wl/view?usp=sharing
-#     - name: Solution
-#       url: https://drive.google.com/file/d/1l29r1H-9SyKkQWHx_rPNS8FagQnxdQwe/view?usp=sharing
+      - name: Solution
+        url: https://drive.google.com/file/d/1t-z_cU0nWcrCxxMz_DslTdWMrG12kqFZ/view?usp=sharing
 #     - name: OATutor Online Worksheet
 #       url: https://bcourses.berkeley.edu/courses/1551541/assignments/9058607
 #     - name: Q1 Walkthrough
