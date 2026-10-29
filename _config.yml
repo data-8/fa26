@@ -60,8 +60,8 @@ aux_links:
     - 'https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fsandbox%2Fsandbox.ipynb'
   JupyTutor Feedback:
     - 'https://docs.google.com/forms/d/e/1FAIpQLSePNu7yd_iscwKL2LLSTtEItMI4iGr_8bHotFG1WjKA3qMMDw/viewform?usp=publish-editor'
-  # OATutor Feedback:
-  #   - 'https://forms.gle/TUL9cmE9QiSy2SAh6'
+  OATutor Feedback:
+    - 'https://docs.google.com/forms/d/e/1FAIpQLSdTGPDMUEOe227I7tVZMw_R2JuPNo4mQ-4uiU27N2p83QuJiw/viewform'
 
 # TODO(template): These need to be documented
 # TODO(semester): You may want to review these...
