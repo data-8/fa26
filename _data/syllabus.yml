@@ -64,7 +64,7 @@ hw_days: ['4']
 starting_lecture_number: '1'
 starting_discussion_number: '1'
 starting_homework_number: '1'
-starting_lab_number: '2'
+starting_lab_number: '1'
 starting_project_number: '1'
 # Is the first week of class Week 0 or Week 1? We currently don't support
 # starting at any other week number, so pick '0' or '1' here.
