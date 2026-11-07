@@ -10,7 +10,7 @@ projects:
     label-number: 1
   - title: Project 2 (Checkpoint due 11/13, Entire project due 11/20)
     date: 2026-11-06
-    link: 
+    link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject2%2Fproject2.ipynb
     label-number: 2
   - title: Project 3 (Checkpoint due 11/30, Entire project due 12/4)
     date: 2026-11-20
