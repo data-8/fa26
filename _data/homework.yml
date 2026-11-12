@@ -32,7 +32,7 @@ homework:
   - skip: true
   - skip: true
   - title: Linear Regression (due 11/18)
-    link: 
+    link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw09%2Fhw09.ipynb
   - title: Regression Inference (Due 11/25)
     link: 
   - skip: true
