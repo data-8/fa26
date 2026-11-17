@@ -1,7 +1,7 @@
 ---
 published: true
 date: 2026-11-18
-presented_by: Lisa Yn
+presented_by: Lisa Yan
 title: Classification
 # files:
 #   slides: https://docs.google.com/presentation/d/1qICEqYh48UdShceG1YMZ7S2kv1wilNGF1GGvQbykXPY/edit?
