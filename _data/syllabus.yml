@@ -37,7 +37,7 @@ extra_days_col2:
     num: 12
     link:
   - date: 2026-12-15
-    title: "Final Exam"
+    title: "Final Exam (11:30 AM - 2:30 PM)"
     label: exam
 
 # The dates used in extra_links_col3 below must already be included on the calendar 
