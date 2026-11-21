@@ -6,6 +6,8 @@ date: 2026-11-16
 
 {{site.links.lab.lab09}} has been released and is due on Friday, November 20 @ 5 PM.
 
-{{site.links.project.project02}} is is due Friday, November 20 @ 5 PM.
+{{site.links.project.project02}} is due Friday, November 20 @ 5 PM.
 
 {{site.links.hw.hw10}} has been released and is due on Wednesday, November 25 @ 10 AM.
+
+{{site.links.project.project03}} has been released and is due Friday, December 4 @ 5 PM.
